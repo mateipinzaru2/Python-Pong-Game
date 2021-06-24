@@ -1,2 +1,2 @@
 # Python
-Various Python projects and developments
+Classic Pong Video-Game programmed in Python
